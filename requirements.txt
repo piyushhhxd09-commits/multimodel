@@ -1,0 +1,11 @@
+gradio>=4.0
+PyMuPDF>=1.24
+pdfplumber>=0.10
+sentence-transformers>=2.2
+rank-bm25>=0.2
+transformers>=4.36
+torch
+accelerate
+Pillow
+numpy
+huggingface_hub
